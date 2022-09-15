@@ -58,3 +58,28 @@ More useful information and more understanding how to cooperate with the teams u
 ![git branching repo](task_git_collaboration/git%20branching%20repo.png)
   
 </details>
+
+## Intro to HTML and CSS
+
+I was already familiar with HTML and CSS, but it was a good idea to repeat my knowledge. The lessons were interesting and useful.
+
+<details><summary>coursera week 1</summary>
+  
+![coursera week 1](task_html_css_intro/week1.png)
+  
+</details>
+<details><summary>coursera week 2</summary>
+  
+![coursera week 2](task_html_css_intro/week2.png)
+  
+</details>
+<details><summary>codecademy HTML</summary>
+  
+![codecademy HTML](task_html_css_intro/html.png)
+  
+</details>
+<details><summary>codecademy CSS</summary>
+  
+![codecademy CSS](task_html_css_intro/css.png)
+  
+</details>
