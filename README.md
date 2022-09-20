@@ -83,3 +83,18 @@ I was already familiar with HTML and CSS, but it was a good idea to repeat my kn
 ![codecademy CSS](task_html_css_intro/css.png)
   
 </details>
+
+## Responsive Web Design
+
+Very interesting topic, a lot of useful information. But need more practice with flexbox and grid layout to succesfully implement these infrormation in my future projects. Will do it by myself. And the games were super cool.
+
+<details><summary>flexbox froggy</summary>
+  
+![flexbox froggy](task_responsive_web_design/flexbox-froggy.png)
+  
+</details>
+<details><summary>grid garden</summary>
+  
+![grid garden](task_responsive_web_design/grid_garden.png)
+  
+</details>
